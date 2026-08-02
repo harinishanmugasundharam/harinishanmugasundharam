@@ -1,9 +1,9 @@
 # Hi there, I'm Harini 👋
 
-Computer Science and Engineering Student.
+Data Analyst 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🎓 I'm a Currently learning Final Year CSE.
+- 🎓 I'm a Currently working as Data Analyst at HDB Financial Services.
 - 💻 Open to collaborating on projects in computer science and software development.
 - 🌟 Seeking internships or entry-level roles with placement opportunities.
 - 🌐 Interested in converting applications to mobile-friendly formats.
