@@ -1,13 +1,13 @@
 # Hi there, I'm Harini 👋
 
-### Data Analyst | BFSI Reporting & Data Quality
+Data Analyst
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 📊 Currently working as a **Data Analyst at HDB Financial Services**, in the BFSI domain
-- 🔍 Focused on data cleaning, validation, reconciliation, MIS reporting, KPI tracking, and dashboard development
-- 🛠️ Working daily with **SQL, Tableau, Tableau Prep, and MS Excel**
-- 🌱 Building depth in **Python/Pandas** for analytics workflows
-- 🤝 Open to connecting with data & BI professionals, and anyone building in BFSI-adjacent spaces
+- 📊 Currently working as a **Data Analyst at HDB Financial Services**, in the BFSI domain.
+- 🔍 Focused on data cleaning, validation, reconciliation, MIS reporting, KPI tracking, and dashboard development.
+- 🛠️ Working daily with **SQL, Tableau, Tableau Prep, and MS Excel**.
+- 🤝 Open to connecting with data & BI professionals, and anyone building in BFSI-adjacent spaces.
+
 - 🌟 All of my projects are available at  
   [
 
@@ -15,41 +15,41 @@
 
 ](https://github.com/harinishanmugasundharam?tab=repositories)
 
-
-## 🔗 Connect with Me
-
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/harinis2003)
-[
+- 📧 How to Reach me :
+<br /> [
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ](mailto:harinishanmugasundharam003@gmail.com)
 
 
-## 🧰 Tools & Technologies
+## 🔗 Connect with Me
+[
 
-<p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau_Prep-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+![LinkedIn Badge](https://github.com/user-attachments/assets/2c077c22-a64e-4cbd-8558-3680edf20b4a)
+
+](https://www.linkedin.com/in/harinis2003)
+
+
+## 🌐 Languages
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+
+## 🛠️ Tools & Technologies
+
+<img src="https://img.shields.io/badge/Tableau_Prep-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau_Desktop-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
 
 ## 📈 What I Work On
 
-- **Data Quality & Reconciliation** — identifying and resolving data mismatches across source systems
-- **MIS Reporting** — building and automating recurring management reports
-- **KPI Tracking & Dashboards** — designing Tableau dashboards for stakeholder decision-making
-- **Data Prep Pipelines** — using Tableau Prep for joins, unions, pivots, aggregations, and cleansing at scale
+- **Data Quality & Reconciliation** — identifying and resolving data mismatches across source systems.
+- **MIS Reporting** — building and automating recurring management reports.
+- **KPI Tracking & Dashboards** — designing Tableau dashboards for stakeholder decision-making.
+- **Data Prep Pipelines** — using Tableau Prep for joins, unions, pivots, aggregations, and cleansing at scale.
 
 
 ## 🛠️ Workspace Specs
