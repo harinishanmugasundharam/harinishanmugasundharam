@@ -26,7 +26,7 @@
 ## 🔗 Connect with Me
 [
 
-![LinkedIn Badge](https://github.com/user-attachments/assets/2c077c22-a64e-4cbd-8558-3680edf20b4a)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ](https://www.linkedin.com/in/harinis2003)
 
