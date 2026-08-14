@@ -15,41 +15,33 @@
 
 ](https://github.com/harinishanmugasundharam?tab=repositories)
 
-- 📧 How to reach me:
-<br /> [
+
+## 🔗 Connect with Me
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/harinis2003)
+[
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ](mailto:harinishanmugasundharam003@gmail.com)
 
 
-## 🔗 Connect with Me
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/harinis2003)
-
-
 ## 🧰 Tools & Technologies
 
-**SQL** • **Tableau** • **Tableau Prep** • **MS Excel** • **Python** • **Pandas** • **MySQL** • **Git**
-
-
-
-![image](https://github.com/user-attachments/assets/e0f57202-61dd-4b3c-8fa0-4c315e9171f5)
-
-
-
-
-![image](https://github.com/user-attachments/assets/bad93d4e-0606-4e6c-a5f6-2e2769c88d71)
-
-
-
-
-![17309855267636408878694761204052](https://github.com/user-attachments/assets/125ab854-c727-43e9-9d50-2f1cee040798)
-
-
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau_Prep-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 
 ## 📈 What I Work On
