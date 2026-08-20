@@ -28,14 +28,11 @@ Data Analyst
 
 ![image](https://github.com/user-attachments/assets/e9a228f4-ab44-43e7-8225-649a5e835528)
 
+
 ## 🛠️ Tools & Technologies
-
 ![image](https://github.com/user-attachments/assets/e0f57202-61dd-4b3c-8fa0-4c315e9171f5)
+
 ![image](https://github.com/user-attachments/assets/bad93d4e-0606-4e6c-a5f6-2e2769c88d71)
-
-![17309850317962737345198676589676](https://github.com/user-attachments/assets/8767ac52-a0f4-4693-b1a5-f042806d4c9e)
-![17309851256312523786371286791088](https://github.com/user-attachments/assets/e65728e4-2736-4b8d-839d-6143ac59c596)
-
 
 ## 📈 What I Work On
 
@@ -44,27 +41,19 @@ Data Analyst
 - **KPI Tracking & Dashboards** — designing Tableau dashboards for stakeholder decision-making.
 - **Data Prep Pipelines** — using Tableau Prep for joins, unions, pivots, aggregations, and cleansing at scale.
 
+## 🎓 Education
 
-## 🛠️ Workspace Specs
+**Bachelor of Engineering in Computer Science and Engineering** (2021 – 2025). 
+Graduated as the **1st Rank holder** in the department and was awarded the **Gold Medal**.
 
-### GitHub Stats
+## 🌱 Currently Learning
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harinishanmugasundharam&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-
-
-
-### GitHub Activity
-
-
-![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=harinishanmugasundharam&theme=dark)
-
+Currently building depth in **Python**, **Pandas**, **NumPy**, and **Power BI**
+To strengthen my analytics and reporting workflows.
 
 
 [
 
 ![Harini's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harinishanmugasundharam&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
 
-](https://github.com/ashutosh00710/github-readme-activity-graph)
-```
-
+]
