@@ -44,13 +44,16 @@ Data Analyst
 ## 🎓 Education
 
 **Bachelor of Engineering in Computer Science and Engineering** (2021 – 2025). 
+
 Graduated as the **1st Rank holder** in the department and was awarded the **Gold Medal**.
 
 ## 🌱 Currently Learning
 
-Currently building depth in **Python**, **Pandas**, **NumPy**, and **Power BI**
+Currently building depth in **Python**, **Pandas**, **NumPy**, and **Power BI**.
+
 To strengthen my analytics and reporting workflows.
 
+## GitHub Activity 
 
 [
 
