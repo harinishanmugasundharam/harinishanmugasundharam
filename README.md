@@ -14,6 +14,7 @@ Data Analyst
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harinishanmugasundharam?tab=repositories)
 
 - 📧 How to Reach me :
+
 <br /> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harinishanmugasundharam003@gmail.com)
 
 
@@ -29,9 +30,11 @@ Data Analyst
 
 ## 🛠️ Tools & Technologies
 
-<img src="https://github.com/user-attachments/assets/8767ac52-a0f4-4693-b1a5-f042806d4c9e" width="90" height="90" alt="Tableau Prep" />
-<img src="https://github.com/user-attachments/assets/125ab854-c727-43e9-9d50-2f1cee040798" width="90" height="90" alt="Tableau Desktop" />
-<img src="https://github.com/user-attachments/assets/26b09a4a-85f9-42b2-87c7-b5ec16da2f4b" width="90" height="90" alt="Excel" />
+![image](https://github.com/user-attachments/assets/e0f57202-61dd-4b3c-8fa0-4c315e9171f5)
+![image](https://github.com/user-attachments/assets/bad93d4e-0606-4e6c-a5f6-2e2769c88d71)
+
+![17309850317962737345198676589676](https://github.com/user-attachments/assets/8767ac52-a0f4-4693-b1a5-f042806d4c9e)
+![17309851256312523786371286791088](https://github.com/user-attachments/assets/e65728e4-2736-4b8d-839d-6143ac59c596)
 
 
 ## 📈 What I Work On
