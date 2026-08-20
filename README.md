@@ -33,15 +33,15 @@ Data Analyst
 
 ## 🌐 Languages
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://github.com/user-attachments/assets/e9a228f4-ab44-43e7-8225-649a5e835528" width="90" height="90" alt="Python" />
+<img src="https://github.com/user-attachments/assets/d1b32f4a-d587-4eaf-bb8c-013d16c1768a" width="90" height="90" alt="SQL" />
 
 
 ## 🛠️ Tools & Technologies
 
-<img src="https://img.shields.io/badge/Tableau_Prep-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau_Desktop-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://github.com/user-attachments/assets/8767ac52-a0f4-4693-b1a5-f042806d4c9e" width="90" height="90" alt="Tableau Prep" />
+<img src="https://github.com/user-attachments/assets/125ab854-c727-43e9-9d50-2f1cee040798" width="90" height="90" alt="Tableau Desktop" />
+<img src="https://github.com/user-attachments/assets/26b09a4a-85f9-42b2-87c7-b5ec16da2f4b" width="90" height="90" alt="Excel" />
 
 
 ## 📈 What I Work On
@@ -73,3 +73,6 @@ Data Analyst
 ![Harini's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harinishanmugasundharam&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
 
 ](https://github.com/ashutosh00710/github-readme-activity-graph)
+```
+
+Copy everything inside the code block into your `README.md` on GitHub. If the Tableau Prep/Desktop images render swapped, just tell me and I'll flip them.
