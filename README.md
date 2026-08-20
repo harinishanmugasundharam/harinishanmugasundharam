@@ -1,3 +1,4 @@
+
 # Hi there, I'm Harini 👋
 
 Data Analyst
@@ -9,33 +10,22 @@ Data Analyst
 - 🤝 Open to connecting with data & BI professionals, and anyone building in BFSI-adjacent spaces.
 
 - 🌟 All of my projects are available at  
-  [
-
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/harinishanmugasundharam?tab=repositories)
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harinishanmugasundharam?tab=repositories)
 
 - 📧 How to Reach me :
-<br /> [
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:harinishanmugasundharam003@gmail.com)
+<br /> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harinishanmugasundharam003@gmail.com)
 
 
 ## 🔗 Connect with Me
-[
+[![LinkedIn Badge](https://github.com/user-attachments/assets/2c077c22-a64e-4cbd-8558-3680edf20b4a)](https://www.linkedin.com/in/harinis2003)
 
-![LinkedIn Badge](https://github.com/user-attachments/assets/2c077c22-a64e-4cbd-8558-3680edf20b4a)
-
-](https://www.linkedin.com/in/harinis2003)
-
+[![Instagram Badge](https://github.com/user-attachments/assets/01fd6e71-d0bf-4a2a-a304-3991eea61ec2)](https://www.instagram.com/harini_shanmugasundharam)
 
 ## 🌐 Languages
+![image](https://github.com/user-attachments/assets/d1b32f4a-d587-4eaf-bb8c-013d16c1768a)
 
-<img src="https://github.com/user-attachments/assets/e9a228f4-ab44-43e7-8225-649a5e835528" width="90" height="90" alt="Python" />
-<img src="https://github.com/user-attachments/assets/d1b32f4a-d587-4eaf-bb8c-013d16c1768a" width="90" height="90" alt="SQL" />
-
+![image](https://github.com/user-attachments/assets/e9a228f4-ab44-43e7-8225-649a5e835528)
 
 ## 🛠️ Tools & Technologies
 
@@ -75,4 +65,3 @@ Data Analyst
 ](https://github.com/ashutosh00710/github-readme-activity-graph)
 ```
 
-Copy everything inside the code block into your `README.md` on GitHub. If the Tableau Prep/Desktop images render swapped, just tell me and I'll flip them.
